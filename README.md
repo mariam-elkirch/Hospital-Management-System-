@@ -1,0 +1,2 @@
+# Hospital-Management-System-
+The project is about hospital management system with database. First, user chose if he is a doctor or admin or receptionist. If he is a receptionist he can create an appointment to patients and show all appointments. If he is an admin he can add new doctor, remove doctor, search doctor, view all doctors and view all patients. If he is a doctor he can delete appointment for patient and check appointment.
